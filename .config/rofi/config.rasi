@@ -1,0 +1,11 @@
+
+configuration {
+	font: "mono 14";
+	location: 0;
+}
+
+@theme "Monokai"
+listview {
+	lines: 12;
+	columns: 3;
+}
